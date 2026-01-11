@@ -10,6 +10,9 @@ This system helps schools automate daily operations such as student registration
 
 Here are some screenshots of the School Management System interface:
 
+### slection Page
+![Login Page](screenshots/slection.png)
+
 ### Login Page
 ![Login Page](screenshots/login.png)
 

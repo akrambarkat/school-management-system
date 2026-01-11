@@ -152,7 +152,7 @@ If you have any questions or issues, please open an Issue on GitHub or contact t
 
 ## Developers
 
-- [Developer Name] - [Email]
+- Akram A. - AkramABarakat.2003@gmail.com
 
 ---
 

@@ -6,6 +6,46 @@ A comprehensive school management system built with the Laravel framework, desig
 
 This system helps schools automate daily operations such as student registration, grade management, attendance tracking, financial fee management, and organizing exams and quizzes. The system supports multiple user roles with different permissions for each role.
 
+## Screenshots
+
+Here are some screenshots of the School Management System interface:
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/dashboard.png)
+
+### Students Management
+![Students Management](screenshots/students.png)
+
+### Grades Management
+![Grades Management](screenshots/grades.png)
+
+### Classrooms Management
+![Classrooms Management](screenshots/classrooms.png)
+
+### Subjects Management
+![Subjects Management](screenshots/subjects.png)
+
+### Quizzes and Exams
+![Quizzes and Exams](screenshots/quizzes.png)
+
+### Fees Management
+![Fees Management](screenshots/fees.png)
+
+### Attendance Tracking
+![Attendance Tracking](screenshots/attendance.png)
+
+### Events Management
+![Events Management](screenshots/events.png)
+
+### Library Management
+![Library Management](screenshots/library.png)
+
+### System Settings
+![System Settings](screenshots/settings.png)
+
 ## Key Features
 
 ### User and Role Management

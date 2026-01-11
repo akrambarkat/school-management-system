@@ -119,7 +119,7 @@ You can access the system via your browser at `http://localhost:8000`.
 ## Usage
 
 ### Login
-- Use the default admin credentials for initial login.
+- Use the default admin@gmail.com password = (12345678) credentials for initial login.
 - New accounts can be created from the admin dashboard.
 
 ### Student Management
